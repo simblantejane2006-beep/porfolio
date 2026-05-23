@@ -4,11 +4,11 @@
 Name: Mary Jane Simblante </br>
 Birtdate: October 21 2006</br>
 Age: 19 years old</br>
-Adress: <u>Rio tuba, Bataraza, Palawan</u></br>
+Adress: Rio tuba, Bataraza, Palawan<br>
 " You only live onces."</br>
 </br>
-**Hobbies</br>**
-- Crochet</br>
+**Hobbies**
+- Crochet
 - Sing</br>
 - Drawing</br>
 - Skecthing</br>
