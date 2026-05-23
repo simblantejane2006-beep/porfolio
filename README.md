@@ -66,5 +66,6 @@ Creating electricity using solar
 |--------------------------------------------------------------------------------------------|
 <br>
 Adiyanale project
+
 |This is an agricultural electronics project that measures the soil's fertility levels by detecting|
 |--------------------------------------------------------------------------------------------------|
