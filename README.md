@@ -1,40 +1,40 @@
 # PORTFOLIO<br>
 <br>
-**ABOUT ME**</br>
-Name: Mary Jane Simblante </br>
+**ABOUT ME**<br>
+Name: Mary Jane Simblante <br>
 Birtdate: October 21 2006</br>
 Age: 19 years old</br>
 Adress: Rio tuba, Bataraza, Palawan<br>
-" You only live onces."</br>
+" You only live onces."<br>
 </br>
 **Hobbies**
 - Crochet
-- Sing</br>
-- Drawing</br>
-- Skecthing</br>
-- Water Color Painting</br>
-- Stiching</br>
-- More: Anything new about creative arts that I can make</br>
-**Favorites**</br>
-  *color:*</br>
-- Yellow</br>
+- Sing
+- Drawing
+- Skecthing
+- Water Color Painting
+- Stiching
+- More: Anything new about creative arts that I can make</r>
+**Favorites**<br>
+  *color:*
+- Yellow<br>
    *Number:*
-- 06</br>
+- 06<br>
 - 21</br>
    *Food:*
-- Streetfood</br>
-- Black Meat Fish</br>
-- Crab</br>
-- Yellow Fruits</br>
-- Egg</br>
-- Egado</br>
-- Adobo</br>
-- Ice Cream</br>
-- Fries</br>
-- Potato</br>
-- Corn</br>
-</br>
-**School Information**</br>
+- Streetfood<br>
+- Black Meat Fish
+- Crab
+- Yellow Fruits
+- Egg
+- Egado
+- Adobo
+- Ice Cream
+- Fries
+- Potato
+- Corn<br>
+<br>
+**School Information**<br>
 fact about me accademically
 - Taking the track of information communication technology in senior high
 - Taking bachelor of science in electronic engineering this school year
@@ -43,7 +43,7 @@ fact about me accademically
 - I prefer to learn in a fun way
 - Prefer to study with others than self study
 - Prefer to study in school
-- Scared to ask something 'cause I think they will make fun of me</br>
+- Scared to ask something 'cause I think they will make fun of me<br>
 
 | School Level | Name of School |
 |--------------|----------------|
