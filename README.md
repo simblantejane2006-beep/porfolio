@@ -24,10 +24,12 @@ Adress: Rio tuba, Bataraza, Palawan<br>
   <br>
 - Yellow
   <br>
+  <br>
 *Number:*
   <br>
 - 06<br>
 - 21</br>
+<br>
 *Food:*
 - Streetfood<br>
 - Black Meat Fish
