@@ -8,6 +8,7 @@
 
 *School Information*
 | School Level | Name of School |
+|--------------|----------------|
 | Elementary | Alfredo Gregorio Memorial Elementary School |
 | Junior High School | Rio Tuba High School |
 | Senior High School | Ama Computer Learning Center |
