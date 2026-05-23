@@ -6,31 +6,32 @@ Birtdate: October 21 2006</br>
 Age: 19 years old</br>
 Adress: <u>Rio tuba, Bataraza, Palawan</u></br>
 " You only live onces."</br>
-**Hobbies**
-- Crochet
-- Sing
-- Drawing
-- Skecthing
-- Water Color Painting
-- Stiching
+</br>
+**Hobbies**</br>
+- Crochet</br>
+- Sing</br>
+- Drawing</br>
+- Skecthing</br>
+- Water Color Painting</br>
+- Stiching</br>
 - More: Anything new about creative arts that I can make</br>
 **Favorites**</br>
   *color:*</br>
 - Yellow</br>
    *Number:*
-- 06
+- 06</br>
 - 21</br>
    *Food:*
-- Streetfood
-- Black Meat Fish
-- Crab
-- Yellow Fruits
-- Egg
-- Egado
-- Adobo
-- Ice Cream
-- Fries
-- Potato
+- Streetfood</br>
+- Black Meat Fish</br>
+- Crab</br>
+- Yellow Fruits</br>
+- Egg</br>
+- Egado</br>
+- Adobo</br>
+- Ice Cream</br>
+- Fries</br>
+- Potato</br>
 - Corn</br>
 </br>
 **School Information**</br>
