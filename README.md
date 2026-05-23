@@ -1,4 +1,4 @@
-# <u>PORTFOLIO</u>
+# **PORTFOLIO**
 # Mary Jane Simblante
 ## October 21 2006
 ## 19 years old
