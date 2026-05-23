@@ -46,7 +46,8 @@ fact about me accademically
 - I prefer to learn in a fun way
 - Prefer to study with others than self study
 - Prefer to study in school
-- Scared to ask something 'cause I think they will make fun of me<br>
+- Scared to ask something 'cause I think they will make fun of me
+  <br>
 
 | School Level | Name of School |
 |--------------|----------------|
