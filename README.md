@@ -31,7 +31,7 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 - 21</br>
 <br>
 *Food:*
-- Streetfood
+- Street Food
 - Black Meat Fish
 - Crab<br>
 - Yellow Fruits
