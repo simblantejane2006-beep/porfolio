@@ -32,8 +32,8 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 <br>
 <br>
   *Food:*
-- Street Food
-- Egado
+  * Street Food
+*  Egado
 - Adobo
 - Black Meat Fish
 **School Background**
