@@ -1,24 +1,24 @@
 # PORTFOLIO</br>
-**ABOUT ME**
+**ABOUT ME**</br>
 Name: Mary Jane Simblante </br>
 Birtdate: October 21 2006</br>
 Age: 19 years old</br>
 Adress: <u>Rio tuba, Bataraza, Palawan</u></br>
-" You only live onces."
-**Hobbies**
+" You only live onces."</br>
+**Hobbies**</br>
 - Crochet
 - Sing
 - Drawing
 - Skecthing
 - Water Color Painting
 - Stiching
-- More: Anything new about creative arts that I can make
+- More: Anything new about creative arts that I can make</br>
 **Favorites**
-  *color*
-- Yellow
+  *color*</br>
+- Yellow</br>
    *Number*
 - 06
-- 21
+- 21</br>
    *Food*
 - Streetfood
 - Black Meat Fish
@@ -31,7 +31,7 @@ Adress: <u>Rio tuba, Bataraza, Palawan</u></br>
 - Fries
 - Potato
 - Corn</br>
-**School Information**
+**School Information**</br>
 fact about me accadimically
 - Taking the track of information communication technology in senior high
 - Taking bachelor of science in electronic engineering this school year
