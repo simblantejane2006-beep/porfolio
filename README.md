@@ -39,7 +39,9 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 - Potato
 - Corn<br>
 <br>
+
 **School Background**
+ <br>
   <br>
 fact about me accademically
 - Taking the track of information communication technology in senior high
