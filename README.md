@@ -32,15 +32,15 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 <br>
 *Food:*
 - Streetfood<br>
-- Black Meat Fish
-- Crab
-- Yellow Fruits
-- Egg
-- Egado
-- Adobo
+- Black Meat Fish<br>
+- Crab<br>
+- Yellow Fruits<br>
+- Egg<br>
+- Egado<br>
+- Adobo<br>
 - Ice Cream
-- Fries
-- Potato
+- Fries<br>
+- Potato<br>
 - Corn<br>
 <br>
 
