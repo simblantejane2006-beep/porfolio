@@ -42,7 +42,6 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 
 **School Background**
  <br>
-  <br>
 fact about me accademically
 - Taking the track of information communication technology in senior high
 - Taking bachelor of science in electronic engineering this school year
@@ -65,7 +64,6 @@ fact about me accademically
 - Creating electricity using solar
 |This project focuses on converting sunlight into usable electrical energy using photovoltaic|
 |--------------------------------------------------------------------------------------------|
-<br>
-- adiyanale project
+- Adiyanale project
 |This is an agricultural electronics project that measures the soil's fertility levels by detecting|
 |--------------------------------------------------------------------------------------------------|
