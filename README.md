@@ -17,6 +17,7 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 - Water Color Painting
 - Stiching
 - More: Anything new about creative arts that I can make<br>
+<br>
 **Favorites**<br>
   *color:*
 - Yellow<br>
