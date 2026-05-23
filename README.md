@@ -36,6 +36,7 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 *  Egado
 - Adobo
 - Black Meat Fish
+  <br>
 **School Background**
  <br>
 fact about me accademically
