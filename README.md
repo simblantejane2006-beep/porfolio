@@ -64,6 +64,7 @@ fact about me accademically
 Creating electricity using solar
 |This project focuses on converting sunlight into usable electrical energy using photovoltaic|
 |--------------------------------------------------------------------------------------------|
+<br>
 Adiyanale project
 |This is an agricultural electronics project that measures the soil's fertility levels by detecting|
 |--------------------------------------------------------------------------------------------------|
