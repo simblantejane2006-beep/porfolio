@@ -20,7 +20,7 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 
 **Favorites**
   <br>
-*color:*
+  *Color:*
   <br>
 - Yellow
   <br>
@@ -31,7 +31,11 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 - 21
 <br>
 <br>
-
+  *Food:*
+- Street Food
+- Egado
+- Adobo
+- Black Meat Fish
 **School Background**
  <br>
 fact about me accademically
