@@ -13,13 +13,13 @@ Adress: <u>Rio tuba, Bataraza, Palawan</u></br>
 - Water Color Painting
 - Stiching
 - More: Anything new about creative arts that I can make</br>
-**Favorites**
-  *color*</br>
+**Favorites**</br>
+  *color:*</br>
 - Yellow</br>
-   *Number*
+   *Number:*
 - 06
 - 21</br>
-   *Food*
+   *Food:*
 - Streetfood
 - Black Meat Fish
 - Crab
