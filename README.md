@@ -1,8 +1,8 @@
 # PORTFOLIO
-## NAME: Mary Jane Simblante
-### BIRTHDATE: October 21 2006
-### AGE: 19 years old
-### ADRESS: <u>Rio tuba, Bataraza, Palawan</u>
+Name: Mary Jane Simblante
+Birtdate: October 21 2006
+Age: 19 years old
+Adress: <u>Rio tuba, Bataraza, Palawan</u>
 " You only live onces."
 
 **School Information**
