@@ -21,9 +21,11 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 **Favorites**
   <br>
   *color:*
+  <br>
 - Yellow
   <br>
    *Number:*
+  <br>
 - 06<br>
 - 21</br>
    *Food:*
