@@ -1,5 +1,5 @@
-# PORTFOLIO</br>
-</br>
+# PORTFOLIO<br>
+<br>
 **ABOUT ME**</br>
 Name: Mary Jane Simblante </br>
 Birtdate: October 21 2006</br>
