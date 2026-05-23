@@ -1,5 +1,4 @@
 # PORTFOLIO<br>
-**
 <br>
 
 **ABOUT ME**<br>
@@ -9,7 +8,7 @@ Age: 19 years old<br>
 Adress: Rio tuba, Bataraza, Palawan<br>
 " You only live onces."<br>
 <br>
-**Hobbies**
+**Hobbies and Interests**
 - Crochet
 - Sing
 - Drawing
@@ -37,7 +36,7 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 - Potato
 - Corn<br>
 <br>
-**School Information**
+**School Background**
   <br>
 fact about me accademically
 - Taking the track of information communication technology in senior high
@@ -55,3 +54,12 @@ fact about me accademically
 | Junior High School | Rio Tuba High School |
 | Senior High School | Ama Computer Learning Center |
 | College | Fullbright College |
+
+*Achievement this school year:*
+- Creating electricity using solar
+|This project focuses on converting sunlight into usable electrical energy using photovoltaic|
+|--------------------------------------------------------------------------------------------|
+<br>
+- adiyanale project
+|This is an agricultural electronics project that measures the soil's fertility levels by detecting|
+|--------------------------------------------------------------------------------------------------|
