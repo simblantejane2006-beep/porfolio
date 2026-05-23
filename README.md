@@ -1,6 +1,7 @@
 # PORTFOLIO<br>
 **
 <br>
+
 **ABOUT ME**<br>
 Name: Mary Jane Simblante <br>
 Birtdate: October 21 2006<br>
@@ -35,7 +36,8 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 - Potato
 - Corn<br>
 <br>
-**School Information**<br>
+**School Information**
+  <br>
 fact about me accademically
 - Taking the track of information communication technology in senior high
 - Taking bachelor of science in electronic engineering this school year
