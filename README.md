@@ -6,7 +6,7 @@ Birtdate: October 21 2006</br>
 Age: 19 years old</br>
 Adress: Rio tuba, Bataraza, Palawan<br>
 " You only live onces."<br>
-</br>
+<br>
 **Hobbies**
 - Crochet
 - Sing
@@ -14,7 +14,7 @@ Adress: Rio tuba, Bataraza, Palawan<br>
 - Skecthing
 - Water Color Painting
 - Stiching
-- More: Anything new about creative arts that I can make</r>
+- More: Anything new about creative arts that I can make<br>
 **Favorites**<br>
   *color:*
 - Yellow<br>
