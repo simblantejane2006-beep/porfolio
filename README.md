@@ -7,7 +7,7 @@ Age: 19 years old</br>
 Adress: <u>Rio tuba, Bataraza, Palawan</u></br>
 " You only live onces."</br>
 </br>
-**Hobbies**</br>
+**Hobbies**
 - Crochet
 - Sing
 - Drawing
