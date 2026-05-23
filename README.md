@@ -60,7 +60,8 @@ fact about me accademically
 | Senior High School | Ama Computer Learning Center |
 | College | Fullbright College |
 
-*Achievement this school year:*
+*Achievement this school year:*<br>
+
 Creating electricity using solar
 |This project focuses on converting sunlight into usable electrical energy using photovoltaic|
 |--------------------------------------------------------------------------------------------|
