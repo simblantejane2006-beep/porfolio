@@ -1,10 +1,12 @@
 # PORTFOLIO</br>
+</br>
 **ABOUT ME**</br>
 Name: Mary Jane Simblante </br>
 Birtdate: October 21 2006</br>
 Age: 19 years old</br>
 Adress: <u>Rio tuba, Bataraza, Palawan</u></br>
 " You only live onces."</br>
+</br>
 **Hobbies**</br>
 - Crochet
 - Sing
@@ -31,8 +33,9 @@ Adress: <u>Rio tuba, Bataraza, Palawan</u></br>
 - Fries
 - Potato
 - Corn</br>
+</br>
 **School Information**</br>
-fact about me accadimically
+fact about me accademically
 - Taking the track of information communication technology in senior high
 - Taking bachelor of science in electronic engineering this school year
 - Just an ordinary student
